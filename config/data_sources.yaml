@@ -1,0 +1,26 @@
+# 数据源配置
+ethereum:
+  mainnet:
+    rpc_url: "https://mainnet.infura.io/v3/${INFURA_PROJECT_ID}"
+    ws_url: "wss://mainnet.infura.io/ws/v3/${INFURA_PROJECT_ID}"
+    etherscan_url: "https://api.etherscan.io/api"
+
+defi_protocols:
+  defillama:
+    base_url: "https://api.llama.fi"
+    endpoints:
+      tvl: "/tvl"
+      protocols: "/protocols"
+      chains: "/chains"
+
+macro_data:
+  fred:
+    base_url: "https://api.stlouisfed.org/fred"
+    series:
+      - "FEDFUNDS"    # Federal Funds Rate
+      - "DGS10"       # 10-Year Treasury Rate
+      - "DEXUSEU"     # USD/EUR Exchange Rate
+
+crypto_market:
+  coingecko:
+    base_url: "https://api.coingecko.com/api/v3"
