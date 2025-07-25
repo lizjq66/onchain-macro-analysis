@@ -236,8 +236,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This software is for educational and research purposes only. It should not be used as the sole basis for investment decisions. Cryptocurrency and DeFi investments carry high risk. Always conduct your own research and consult with financial advisors before making investment decisions.
-
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/onchain-macro-analysis](https://github.com/yourusername/onchain-macro-analysis)
-- **Issues**: [https://github.com/yourusername/onchain-macro-analysis/issues](https://github.com/yourusername/onchain-macro-analysis/issues)
